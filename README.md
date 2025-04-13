@@ -1,25 +1,20 @@
 # Packet Sniffer
-          $$ $$$$$ $$
-              $$ $$$$$ $$
-             .$$ $$$$$ $$.
-             :$$ $$$$$ $$:
-             $$$ $$$$$ $$$
-             $$$ $$$$$ $$$
-            ,$$$ $$$$$ $$$.
-           ,$$$$ $$$$$ $$$$.
-          ,$$$$; $$$$$ :$$$$.
-         ,$$$$$  $$$$$  $$$$$.
-       ,$$$$$$'  $$$$$  `$$$$$$.
-     ,$$$$$$$'   $$$$$   `$$$$$$$.
-  ,s$$$$$$$'     $$$$$     `$$$$$$$s.
-$$$$$$$$$'       $$$$$       `$$$$$$$$$
-$$$$$Y'          $$$$$          `Y$$$$$
 
 ## Overview
 
 This project is a packet sniffer tool designed to capture and analyze network packets on a selected network interface. It uses the `scapy` library to sniff packets and display them in a user-friendly format. The tool provides basic functionalities such as starting, pausing, and resuming packet sniffing.
 
 **Note**: This project is currently under development. Some features may be subject to changes or improvements in future versions.
+
+```
+    
+     []  ,----.___
+   __||_/___      '.
+  / O||    /|       )
+ /   ""   / /   =._/
+/________/ /
+|________|/   dew
+```
 
 ## Features
 
@@ -41,13 +36,13 @@ This project is a packet sniffer tool designed to capture and analyze network pa
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/packet-sniffer.git
+   git clone https://github.com/Maha1503/PacketSniffer.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd packet-sniffer
+   cd PacketSniffer
    ```
 
 3. Install the required dependencies:
@@ -89,4 +84,3 @@ Packet captured: <Packet Summary>
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Create a new Pull Request.
-
